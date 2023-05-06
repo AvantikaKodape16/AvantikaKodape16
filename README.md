@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avantika Kodape</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right"> alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw0rvDL24-221cQv_OuZunux&ust=1683457235962000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDFoYbF4P4CFQAAAAAdAAAAABAE">
+<img align="right"> alt="coding"width="400"src="![image](https://user-images.githubusercontent.com/109532642/236620784-3864e346-e1fc-4fa9-9ccd-f48aedaf83f6.png)">
 
 
 
