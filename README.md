@@ -1,3 +1,5 @@
+![logo](https://github.com/AvantikaKodape16/AvantikaKodape16/blob/main/GITHUB%20BANNER.png)
+
 <h1 align="center">Hi 👋, I'm Avantika Kodape</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
