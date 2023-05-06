@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avantika Kodape</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right"> "![image](https://user-images.githubusercontent.com/109532642/236620784-3864e346-e1fc-4fa9-9ccd-f48aedaf83f6.png)">
-
-
-
-
 - 🔭 I’m currently working on **Students Attendance System Using Face Recognition**
 
 - 🌱 I’m currently learning **Machine learning**
