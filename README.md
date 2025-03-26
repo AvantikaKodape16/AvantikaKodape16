@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Avantika Kodape</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-- 🔭 I’m currently working on **Students Attendance System Using Face Recognition**
+- 🔭 I am currently working on a Login API project during my Internship**
 
 - 🌱 I’m currently learning **Machine learning**
 
