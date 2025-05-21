@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Avantika Kodape</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
+- - Portfolio -- https://personal-portfolio-cd4n.onrender.com/
+
 - 🔭 I currently worked on a Login API project during my Internship**
 
 - 🌱 I’m currently learning **Machine learning**
@@ -10,6 +12,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/AvantikaKodape16](https://github.com/AvantikaKodape16)
 
 - 📫 How to reach me **avantikakodape16@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
