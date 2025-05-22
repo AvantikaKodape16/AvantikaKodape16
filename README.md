@@ -1,7 +1,7 @@
-![logo](https://github.com/AvantikaKodape16/AvantikaKodape16/blob/main/Github%20Banner.png)
+![logo](https://github.com/AvantikaKodape16/AvantikaKodape16/blob/main/github.png)
 
 <h1 align="center">Hi 👋, I'm Avantika Kodape</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h3 align="center">A passionate Full-Stack developer</h3>
 
 - 🌐 Portfolio — https://avantikakodape.netlify.app/
   
