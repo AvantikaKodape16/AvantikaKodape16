@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Avantika Kodape</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-- 🌐 Portfolio — https://avantika-portfolio.lovable.app/
+- 🌐 Portfolio — https://avantikakodape.netlify.app/
   
 - 🔭 I currently worked on a Login API project during my Internship**
 
