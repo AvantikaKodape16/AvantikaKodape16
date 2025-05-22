@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Avantika Kodape</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-- - Portfolio -- https://personal-portfolio-cd4n.onrender.com/
-
+- 🌐 Portfolio — https://avantika-portfolio.lovable.app/
+  
 - 🔭 I currently worked on a Login API project during my Internship**
 
 - 🌱 I’m currently learning **Machine learning**
