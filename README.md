@@ -17,7 +17,7 @@
 - 💼 Recently worked on a **Login API** using Django REST Framework during my internship at GrayQuest  
 - 🤖 Currently diving into **Machine Learning** and AI-powered apps  
 - 🚀 I build scalable, maintainable apps with clean code and modern tech stacks  
-- 📍 Based in India, open to remote work opportunities!
+- 📍 Based in India, open to work opportunities!
 
 ---
 
