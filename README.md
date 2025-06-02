@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://avantikakodape.netlify.app/">🌐 Portfolio</a> • 
-  <a href="https://github.com/AvantikaKodape16">💻 GitHub</a> • 
+  <a href="https://www.linkedin.com/in/avantika-kodape-b01051204/">💻 LinkedIn</a> • 
   <a href="mailto:avantikakodape16@gmail.com">📧 Email</a>
 </p>
 
