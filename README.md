@@ -62,13 +62,27 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/avantika-kodape" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="https://twitter.com/avantika2002_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
-  <a href="https://instagram.com/avantikodape16" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
-  <a href="https://www.leetcode.com/avantikodape16" target="blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" height="30" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/avantika16" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" height="30" /></a>
-  <a href="https://discord.gg/Avnti#7080" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" height="30" /></a>
+  <a href="https://linkedin.com/in/avantika-kodape" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
+  <a href="https://twitter.com/avantika2002_" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" height="30" />
+  </a>
+  <a href="https://instagram.com/avantikodape16" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" />
+  </a>
+  <a href="https://www.leetcode.com/avantikodape16" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=leetcode" height="30" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/avantika16" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" />
+  </a>
+  <!-- Optional: Replace with valid Discord server link -->
+  <!-- <a href="https://discord.gg/YOUR_SERVER_CODE" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=discord" height="30" />
+  </a> -->
 </p>
+
 
 ---
 
