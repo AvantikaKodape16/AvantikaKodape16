@@ -51,7 +51,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AvantikaKodape16&theme=darkhub&no-frame=true&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AvantikaKodape16&theme=darkhub&no-frame=true&column=6&margin-w=15" />
 </p>
 
 ---
