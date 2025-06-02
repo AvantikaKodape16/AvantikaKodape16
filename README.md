@@ -1,36 +1,76 @@
-![logo](https://github.com/AvantikaKodape16/AvantikaKodape16/blob/main/github.png)
+![Avantika's GitHub Banner](https://github.com/AvantikaKodape16/AvantikaKodape16/blob/main/github.png)
 
 <h1 align="center">Hi 👋, I'm Avantika Kodape</h1>
-<h3 align="center">A passionate Full-Stack developer</h3>
+<h3 align="center">🚀 Full Stack Developer | Backend Specialist | Tech Explorer</h3>
 
-- 🌐 Portfolio — https://avantikakodape.netlify.app/
-  
-- 🔭 I currently worked on a Login API project during my Internship**
-
-- 🌱 I’m currently learning **Machine learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AvantikaKodape16](https://github.com/AvantikaKodape16)
-
-- 📫 How to reach me **avantikakodape16@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/avantika2002_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avantika2002_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avantika kodape" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avantika kodape" height="30" width="40" /></a>
-<a href="https://instagram.com/avantikodape16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avantikodape16" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/avantikodape16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avantikodape16" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/avantika16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="avantika16" height="30" width="40" /></a>
-<a href="https://discord.gg/Avnti#7080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Avnti#7080" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://avantikakodape.netlify.app/">🌐 Portfolio</a> • 
+  <a href="https://github.com/AvantikaKodape16">💻 GitHub</a> • 
+  <a href="mailto:avantikakodape16@gmail.com">📧 Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avantikakodape16&show_icons=true&locale=en&layout=compact" alt="avantikakodape16" /></p>
+### 🔍 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avantikakodape16&show_icons=true&locale=en" alt="avantikakodape16" /></p>
+- 🛠️ I'm a Full Stack Developer with a love for building end-to-end digital solutions  
+- 💼 Recently worked on a **Login API** using Django REST Framework during my internship at GrayQuest  
+- 🤖 Currently diving into **Machine Learning** and AI-powered apps  
+- 🚀 I build scalable, maintainable apps with clean code and modern tech stacks  
+- 📍 Based in India, open to remote work opportunities!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avantikakodape16&" alt="avantikakodape16" /></p>
+---
 
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+
+**Databases & Tools:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
+
+---
+
+> Explore all my projects here → [GitHub/AvantikaKodape16](https://github.com/AvantikaKodape16)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AvantikaKodape16&show_icons=true&theme=react&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AvantikaKodape16&theme=react&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvantikaKodape16&layout=compact&theme=react&hide_border=true" width="49%" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/avantika-kodape" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="https://twitter.com/avantika2002_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
+  <a href="https://instagram.com/avantikodape16" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
+  <a href="https://www.leetcode.com/avantikodape16" target="blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" height="30" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/avantika16" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" height="30" /></a>
+  <a href="https://discord.gg/Avnti#7080" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" height="30" /></a>
+</p>
+
+---
+
+<!-- Optional Quote -->
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
