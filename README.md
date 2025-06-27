@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Avantika Kodape</h1>
 <h3 align="center">🚀 Full Stack Developer | Backend Specialist | Tech Explorer</h3>
 
+
 <p align="center">
   <a href="https://avantikakodape.netlify.app/">🌐 Portfolio</a> • 
   <a href="https://www.linkedin.com/in/avantika-kodape-b01051204/">💻 LinkedIn</a> • 
